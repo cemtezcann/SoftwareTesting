@@ -1,1 +1,1 @@
-# SoftwareTestingMasterClass
+# SoftwareTesting
